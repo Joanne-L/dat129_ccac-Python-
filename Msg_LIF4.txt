@@ -1,0 +1,2 @@
+Enter f to stop logging an interruption:
+>

@@ -1,0 +1,5 @@
+Your input was not valid.
+To log an interruption, press e for email, press p for
+phone call, press v for visitor, press i for instant message, 
+t for text, press m for meeting, b for break, or q to quit.
+>

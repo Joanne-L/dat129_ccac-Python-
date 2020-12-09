@@ -1,0 +1,3 @@
+This program will help you log your interruptions and provide valuable data to analyze.  
+Press 's' followed by enter to begin tracking interruptions.
+>

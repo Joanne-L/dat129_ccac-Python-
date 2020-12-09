@@ -1,0 +1,3 @@
+The Start of the interruption has been logged.
+Press f to finish the interruption:
+>
